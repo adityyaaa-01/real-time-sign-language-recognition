@@ -30,6 +30,7 @@ A Python project to convert hand gestures into text in **real time** using **Med
    ```
 
 ## 📽️ Demo
+![Demo Screenshot](Screenshot 2025-09-14 134101.png)
 
 ## 📢 Acknowledgements
 Inspired by open-source contributions to gesture recognition using MediaPipe and TensorFlow.
